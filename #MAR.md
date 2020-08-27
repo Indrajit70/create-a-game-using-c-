@@ -1,5 +1,5 @@
 # create-a-game-using-c-
-#MAR
+
 #include<iostream.h>          //opening headerfile iostream for in-out
 
 #include<conio.h>             //opening headerfile conio for clrscr();
